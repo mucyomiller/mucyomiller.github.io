@@ -1,5 +1,4 @@
-# mucyomiller.github.io
-MucyoMiler Projects
+# mucyo's stupid blog   
 
 
-```this repo is for simple github pages for my projects```
+This is where You finds my Contact info & some projects
