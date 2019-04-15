@@ -1,4 +1,7 @@
-# mucyo's stupid blog   
+### Content   
+This repo contains source code for my little web portfolio
 
 
-This is where You finds my Contact info & some projects
+### Author
+
+mucyo fred me@mucyofred.com
