@@ -1,0 +1,28 @@
+title = "mucyo"
+theme = "hallo"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+[Author]
+    name = "Mucyo Fred"
+[params]
+    greeting = "Hey!"
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/mucyomiller"
+    [[params.links]]
+        icon = "medium"
+        title = "Medium"
+        url = "https://medium.com/@mucyofred"
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://twitter.com/mucyomiller"
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:me@mucyofred.com"
+[params.colors]
+        background = "#455A64"
+        foreground = "#FFFFFF"
+        hover = "#FF5722"
